@@ -1,4 +1,4 @@
 import '@/app/ui/global.css'
 export default function Page(){
-    return <p className="text-center font-bold text-8xl text-lime-400 mt-5">Customers Page</p>
+    return <h1 className="text-center mt-10 font-bold text-3xl text-orange-500">Customers Page</h1>
 }
